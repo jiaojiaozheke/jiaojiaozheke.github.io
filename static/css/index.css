@@ -1,0 +1,14 @@
+
+.navbg {
+    background: url(../img/navbg.jpg) 0 0 repeat-x;
+}
+.leftnav {
+    border: 1px solid #e4e4e4;
+    background: #f4f4f4;
+}
+.leftnav ul {
+    width: 100%;
+}
+.leftnav ul>li:first-child {
+    background-color: #1c7430;
+}
