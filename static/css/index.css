@@ -12,3 +12,6 @@
 .leftnav ul>li:first-child {
     background-color: #1c7430;
 }
+.maps {
+    min-height: 450px;
+}
